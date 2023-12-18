@@ -24,15 +24,9 @@
 
 
 
-
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Intellij Idea](https://img.shields.io/badge/IntelliJ-05122A?style=flat&logo=intellijidea)
 
-
-
-
-
-![Spotify](https://img.shields.io/badge/Spotify-05122A?style=flat&logo=spotify&link=https%3A%2F%2Fopen.spotify.com%2Fuser%2F31kyim6lrhk44d27oupi3sqkx7ty%3Fsi%3D3e4df5d5bcc04b53)
 
 
 ### ⚙️ &nbsp;GitHub Analytics
