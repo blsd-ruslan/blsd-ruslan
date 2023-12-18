@@ -31,12 +31,12 @@
 
 ### ⚙️ &nbsp;GitHub Analytics
 
-<p align="center">
+<div>
 <a href="https://github.com/blsd-ruslan">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=blsd-ruslan&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=blsd-ruslan&layout=compact&langs_count=8&theme=algolia&include_all_commits=true&count_private=true"/>
 </a>
-</p>
+</div>
 
 
 <p align="center">
