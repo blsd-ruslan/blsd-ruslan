@@ -19,8 +19,8 @@
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![Bash](https://img.shields.io/badge/Bash-05122A?style=flat&logo=gnubash)
-![Photoshop](https://img.shields.io/badge/Photoshop-05122A?style=flat&logo=adobephotoshop&link=https%3A%2F%2Fopen.spotify.com%2Fuser%2F31kyim6lrhk44d27oupi3sqkx7ty%3Fsi%3D3e4df5d5bcc04b53)
+![Bash](https://img.shields.io/badge/Bash-05122A?style=flat&logo=gnubash)&nbsp;
+![Photoshop](https://img.shields.io/badge/Photoshop-05122A?style=flat&logo=adobephotoshop)&nbsp;
 
 
 
